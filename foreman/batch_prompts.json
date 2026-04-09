@@ -1,0 +1,322 @@
+{
+  "scoring_criteria": {
+    "role_fit": {
+      "Project Engineer (PE, Senior PE)": 40,
+      "APM / Assistant Project Manager": 34,
+      "Site Engineer at Tier-1/large company": 34,
+      "Site Engineer at small/mid company": 24,
+      "Construction Manager": 28,
+      "Project Manager at small/boutique/Tier-3 company": 30,
+      "Project Manager at mid-tier company": 18,
+      "Project Manager at Tier-1/large company": 8,
+      "Graduate/Junior/Entry-level": 5,
+      "Unrelated field (IT, mining, oil & gas, healthcare, retail)": 0
+    },
+    "location": {
+      "Melbourne metro": 20,
+      "Inner regional VIC": 12,
+      "Outer VIC/remote": 6,
+      "Interstate": 0
+    },
+    "salary": {
+      "$120K-$170K": 20,
+      "$100K-$119K": 12,
+      "$80K-$99K": 6,
+      "not stated": 10,
+      "outside range": 2
+    },
+    "company": {
+      "Tier-1 major contractor": 20,
+      "Mid-tier contractor": 14,
+      "Small/boutique civil firm": 12,
+      "Consultancy/engineering firm": 12,
+      "Unknown": 8
+    }
+  },
+  "target_salary_range": "$120K-$170K",
+  "location_preference": "Melbourne, civil/building/infrastructure construction",
+  "batches": [
+    {
+      "batch_number": 1,
+      "worker": "worker-05",
+      "jobs": [
+        {
+          "row_number": 2,
+          "title": "Project Engineer / Project Manager",
+          "company": "Carpe Diem Solutions",
+          "location": "Bayswater, Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 15,
+          "title": "Project Coordinator / Office Manager",
+          "company": "Prime tile and stone Pty Ltd",
+          "location": "Dandenong South, Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 16,
+          "title": "Project Administrator",
+          "company": "Abergeldie Complex Infrastructure",
+          "location": "Moorabbin Airport, Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 17,
+          "title": "Project & Document Control Coordinator",
+          "company": "Hatch Pty Ltd",
+          "location": "Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 18,
+          "title": "Project Manager",
+          "company": "JLL",
+          "location": "Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 19,
+          "title": "Construction Cadet",
+          "company": "ATG Group",
+          "location": "Hawthorn East, Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 20,
+          "title": "Project Coordinator",
+          "company": "K2 Medical Systems",
+          "location": "Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 21,
+          "title": "Construction Graduate",
+          "company": "Tykon PTY LTD",
+          "location": "Middle Park, Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 22,
+          "title": "Project Engineer",
+          "company": "Goulburn-Murray Water",
+          "location": "Tatura, Shepparton & Goulburn Valley VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 23,
+          "title": "Project Engineer",
+          "company": "SASREO Pty Ltd",
+          "location": "Geelong, South West Coast VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 24,
+          "title": "Structural Engineer",
+          "company": "Intrax Consulting Group",
+          "location": "Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 25,
+          "title": "Drainage Engineer",
+          "company": "Moonee Valley City Council",
+          "location": "Moonee Ponds, Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "$70.00",
+          "salary_max": "$70.00"
+        },
+        {
+          "row_number": 26,
+          "title": "Graduate Geotechnical Engineer/Engineering Geologist",
+          "company": "CMW Geosciences",
+          "location": "Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 27,
+          "title": "Graduate Environmental Engineer / Adminastrative Assistant",
+          "company": "Soil Test Melbourne Engineering",
+          "location": "Coburg North, Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 28,
+          "title": "Geotechnical Engineer",
+          "company": "Terra Verde JV",
+          "location": "Burwood, Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        }
+      ]
+    },
+    {
+      "batch_number": 2,
+      "worker": "worker-06",
+      "jobs": [
+        {
+          "row_number": 29,
+          "title": "Cadet Building Surveyor",
+          "company": "Baw Baw Shire Council",
+          "location": "Drouin, West Gippsland & Latrobe Valley VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 30,
+          "title": "Site Supervisor",
+          "company": "Valmont",
+          "location": "Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 31,
+          "title": "Site Engineer",
+          "company": "MC Earthmoving Pty Ltd",
+          "location": "Ballarat, Ballarat & Central Highlands VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 32,
+          "title": "Site Engineer Mildura - Civil Construction",
+          "company": "Keystone Civil",
+          "location": "Mildura, Mildura & Murray VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 33,
+          "title": "Site Engineer - TBM, Smoke Ducts",
+          "company": "Spark NEL DC JV",
+          "location": "Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 34,
+          "title": "Site Engineer",
+          "company": "Silverstrand Developments",
+          "location": "Tingalpa, Brisbane QLD",
+          "state": "QLD",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 35,
+          "title": "Civil Site Engineer",
+          "company": "Densford Civil",
+          "location": "Perth WA",
+          "state": "WA",
+          "salary_min": "$95,000.00",
+          "salary_max": "$95,000.00"
+        },
+        {
+          "row_number": 36,
+          "title": "Civil Site Engineer",
+          "company": "Torrens to Darlington Alliance",
+          "location": "Adelaide SA",
+          "state": "SA",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 37,
+          "title": "Site Engineer",
+          "company": "John Holland",
+          "location": "Fortitude Valley, Brisbane QLD",
+          "state": "QLD",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 38,
+          "title": "Site Engineer",
+          "company": "Fulton Hogan Australia Pty Limited",
+          "location": "Dapto, Wollongong, Illawarra & South Coast NSW",
+          "state": "NSW",
+          "salary_min": "$650.00",
+          "salary_max": "$650.00"
+        },
+        {
+          "row_number": 39,
+          "title": "Site / Project Engineer",
+          "company": "Hays | Construction",
+          "location": "Canberra ACT",
+          "state": "ACT",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 40,
+          "title": "Project Engineer",
+          "company": "West Coast Civil",
+          "location": "Kwinana Beach, Perth WA",
+          "state": "WA",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 68,
+          "title": "Development Engineer",
+          "company": "Campaspe Shire Council",
+          "location": "Echuca, Shepparton & Goulburn Valley VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 69,
+          "title": "Project Manager",
+          "company": "S&R Engineering and Construction",
+          "location": "Bendigo, Bendigo, Goldfields & Macedon Ranges VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        },
+        {
+          "row_number": 70,
+          "title": "Junior CA/Project Coordinator",
+          "company": "Forefront Recruitment",
+          "location": "Fitzroy, Melbourne VIC",
+          "state": "VIC",
+          "salary_min": "",
+          "salary_max": ""
+        }
+      ]
+    }
+  ]
+}
