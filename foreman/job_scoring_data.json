@@ -1,0 +1,233 @@
+{
+  "total_rows": 632,
+  "header": ["Date Added", "Source", "Job Title", "Company", "Location", "State", "Salary Min", "Salary Max", "Job URL", "Status", "AI Score", "AI Notes", "Actioned"],
+  "new_jobs": [
+    {
+      "row_index": 14,
+      "row_number": 15,
+      "data": ["05/04/2026", "SEEK", "Project Coordinator / Office Manager", "Prime tile and stone Pty Ltd", "Dandenong South, Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91331610", "New", "", "", ""]
+    },
+    {
+      "row_index": 15,
+      "row_number": 16,
+      "data": ["05/04/2026", "SEEK", "Project Administrator", "Abergeldie Complex Infrastructure", "Moorabbin Airport, Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91306620", "New", "", "", ""]
+    },
+    {
+      "row_index": 16,
+      "row_number": 17,
+      "data": ["05/04/2026", "SEEK", "Project & Document Control Coordinator", "Hatch Pty Ltd", "Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91314797", "New", "", "", ""]
+    },
+    {
+      "row_index": 17,
+      "row_number": 18,
+      "data": ["05/04/2026", "SEEK", "Project Manager", "JLL", "Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91299970", "New", "", "", ""]
+    },
+    {
+      "row_index": 18,
+      "row_number": 19,
+      "data": ["05/04/2026", "SEEK", "Construction Cadet", "ATG Group", "Hawthorn East, Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91296435", "New", "", "", ""]
+    },
+    {
+      "row_index": 19,
+      "row_number": 20,
+      "data": ["05/04/2026", "SEEK", "Project Coordinator", "K2 Medical Systems", "Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91304499", "New", "", "", ""]
+    },
+    {
+      "row_index": 20,
+      "row_number": 21,
+      "data": ["05/04/2026", "SEEK", "Construction Graduate", "Tykon PTY LTD", "Middle Park, Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91300297", "New", "", "", ""]
+    },
+    {
+      "row_index": 21,
+      "row_number": 22,
+      "data": ["05/04/2026", "SEEK", "Project Engineer", "Goulburn-Murray Water", "Tatura, Shepparton & Goulburn Valley VIC", "VIC", "", "", "https://www.seek.com.au/job/91274262", "New", "", "", ""]
+    },
+    {
+      "row_index": 22,
+      "row_number": 23,
+      "data": ["05/04/2026", "SEEK", "Project Engineer", "SASREO Pty Ltd", "Geelong, South West Coast VIC", "VIC", "", "", "https://www.seek.com.au/job/91107657", "New", "", "", ""]
+    },
+    {
+      "row_index": 23,
+      "row_number": 24,
+      "data": ["05/04/2026", "SEEK", "Structural Engineer", "Intrax Consulting Group", "Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91309291", "New", "", "", ""]
+    },
+    {
+      "row_index": 24,
+      "row_number": 25,
+      "data": ["05/04/2026", "SEEK", "Drainage Engineer", "Moonee Valley City Council", "Moonee Ponds, Melbourne VIC", "VIC", "$70.00", "$70.00", "https://www.seek.com.au/job/91306584", "New", "", "", ""]
+    },
+    {
+      "row_index": 25,
+      "row_number": 26,
+      "data": ["05/04/2026", "SEEK", "Graduate Geotechnical Engineer/Engineering Geologist", "CMW Geosciences", "Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91298191", "New", "", "", ""]
+    },
+    {
+      "row_index": 26,
+      "row_number": 27,
+      "data": ["05/04/2026", "SEEK", "Graduate Environmental Engineer / Adminastrative Assistant", "Soil Test Melbourne Engineering", "Coburg North, Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91311776", "New", "", "", ""]
+    },
+    {
+      "row_index": 27,
+      "row_number": 28,
+      "data": ["05/04/2026", "SEEK", "Geotechnical Engineer", "Terra Verde JV", "Burwood, Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91297344", "New", "", "", ""]
+    },
+    {
+      "row_index": 28,
+      "row_number": 29,
+      "data": ["05/04/2026", "SEEK", "Cadet Building Surveyor", "Baw Baw Shire Council", "Drouin, West Gippsland & Latrobe Valley VIC", "VIC", "", "", "https://www.seek.com.au/job/91297225", "New", "", "", ""]
+    },
+    {
+      "row_index": 29,
+      "row_number": 30,
+      "data": ["05/04/2026", "SEEK", "Site Supervisor", "Valmont", "Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91300284", "New", "", "", ""]
+    },
+    {
+      "row_index": 30,
+      "row_number": 31,
+      "data": ["05/04/2026", "SEEK", "Site Engineer", "MC Earthmoving Pty Ltd", "Ballarat, Ballarat & Central Highlands VIC", "VIC", "", "", "https://www.seek.com.au/job/91218117", "New", "", "", ""]
+    },
+    {
+      "row_index": 31,
+      "row_number": 32,
+      "data": ["05/04/2026", "SEEK", "Site Engineer Mildura - Civil Construction", "Keystone Civil", "Mildura, Mildura & Murray VIC", "VIC", "", "", "https://www.seek.com.au/job/91255056", "New", "", "", ""]
+    },
+    {
+      "row_index": 32,
+      "row_number": 33,
+      "data": ["05/04/2026", "SEEK", "Site Engineer - TBM, Smoke Ducts", "Spark NEL DC JV", "Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91188061", "New", "", "", ""]
+    },
+    {
+      "row_index": 33,
+      "row_number": 34,
+      "data": ["05/04/2026", "SEEK", "Site Engineer", "Silverstrand Developments", "Tingalpa, Brisbane QLD", "QLD", "", "", "https://www.seek.com.au/job/91307054", "New", "", "", ""]
+    },
+    {
+      "row_index": 34,
+      "row_number": 35,
+      "data": ["05/04/2026", "SEEK", "Civil Site Engineer", "Densford Civil", "Perth WA", "WA", "$95,000.00", "$95,000.00", "https://www.seek.com.au/job/91307313", "New", "", "", ""]
+    },
+    {
+      "row_index": 35,
+      "row_number": 36,
+      "data": ["05/04/2026", "SEEK", "Civil Site Engineer", "Torrens to Darlington Alliance", "Adelaide SA", "SA", "", "", "https://www.seek.com.au/job/91307778", "New", "", "", ""]
+    },
+    {
+      "row_index": 36,
+      "row_number": 37,
+      "data": ["05/04/2026", "SEEK", "Site Engineer", "John Holland", "Fortitude Valley, Brisbane QLD", "QLD", "", "", "https://www.seek.com.au/job/91301834", "New", "", "", ""]
+    },
+    {
+      "row_index": 37,
+      "row_number": 38,
+      "data": ["05/04/2026", "SEEK", "Site Engineer", "Fulton Hogan Australia Pty Limited", "Dapto, Wollongong, Illawarra & South Coast NSW", "NSW", "$650.00", "$650.00", "https://www.seek.com.au/job/91305865", "New", "", "", ""]
+    },
+    {
+      "row_index": 38,
+      "row_number": 39,
+      "data": ["05/04/2026", "SEEK", "Site / Project Engineer", "Hays | Construction", "Canberra ACT", "ACT", "", "", "https://www.seek.com.au/job/91302446", "New", "", "", ""]
+    },
+    {
+      "row_index": 39,
+      "row_number": 40,
+      "data": ["05/04/2026", "SEEK", "Project Engineer", "West Coast Civil", "Kwinana Beach, Perth WA", "WA", "", "", "https://www.seek.com.au/job/91300984", "New", "", "", ""]
+    },
+    {
+      "row_index": 60,
+      "row_number": 61,
+      "data": ["05/04/2026", "SEEK", "Development Engineer", "Campaspe Shire Council", "Echuca, Shepparton & Goulburn Valley VIC", "VIC", "", "", "https://www.seek.com.au/job/91271946", "New", "", "", ""]
+    },
+    {
+      "row_index": 61,
+      "row_number": 62,
+      "data": ["05/04/2026", "SEEK", "Project Manager", "S&R Engineering and Construction", "Bendigo, Bendigo, Goldfields & Macedon Ranges VIC", "VIC", "", "", "https://www.seek.com.au/job/91286551", "New", "", "", ""]
+    },
+    {
+      "row_index": 62,
+      "row_number": 63,
+      "data": ["05/04/2026", "SEEK", "Junior CA/Project Coordinator", "Forefront Recruitment", "Fitzroy, Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91278815", "New", "", "", ""]
+    },
+    {
+      "row_index": 63,
+      "row_number": 64,
+      "data": ["05/04/2026", "SEEK", "Plant Engineer", "Air Liquide Australia", "Altona, Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91281095", "New", "", "", ""]
+    },
+    {
+      "row_index": 64,
+      "row_number": 65,
+      "data": ["05/04/2026", "SEEK", "Junior Project Engineer - Melbourne", "Hays | Technology", "Prahran, Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91282038", "New", "", "", ""]
+    },
+    {
+      "row_index": 65,
+      "row_number": 66,
+      "data": ["05/04/2026", "SEEK", "Project Engineer", "KLMS", "Kinglake, Yarra Valley & High Country VIC", "VIC", "", "", "https://www.seek.com.au/job/91255425", "New", "", "", ""]
+    },
+    {
+      "row_index": 66,
+      "row_number": 67,
+      "data": ["05/04/2026", "SEEK", "Site Supervisors - Civil Construction", "S&R Engineering and Construction", "Mildura, Mildura & Murray VIC", "VIC", "", "", "https://www.seek.com.au/job/91249480", "New", "", "", ""]
+    },
+    {
+      "row_index": 67,
+      "row_number": 68,
+      "data": ["05/04/2026", "SEEK", "Lead Civil Structural Engineer", "AusNet Services", "Southbank, Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91269554", "New", "", "", ""]
+    },
+    {
+      "row_index": 68,
+      "row_number": 69,
+      "data": ["05/04/2026", "SEEK", "Site Engineer - Civil", "WEM Civil", "Campbelltown, Sydney NSW", "NSW", "", "", "https://www.seek.com.au/job/91281125", "New", "", "", ""]
+    },
+    {
+      "row_index": 69,
+      "row_number": 70,
+      "data": ["05/04/2026", "SEEK", "Site Engineer", "Downer EDI Limited", "Mango Hill, Brisbane QLD", "QLD", "", "", "https://www.seek.com.au/job/91268685", "New", "", "", ""]
+    },
+    {
+      "row_index": 70,
+      "row_number": 71,
+      "data": ["05/04/2026", "SEEK", "Site Engineer", "John Holland", "Cootamundra, Wagga Wagga & Riverina NSW", "NSW", "", "", "https://www.seek.com.au/job/91268196", "New", "", "", ""]
+    },
+    {
+      "row_index": 71,
+      "row_number": 72,
+      "data": ["05/04/2026", "SEEK", "Site Engineer", "John Holland", "Cootamundra, Wagga Wagga & Riverina NSW", "NSW", "", "", "https://www.seek.com.au/job/91273447", "New", "", "", ""]
+    },
+    {
+      "row_index": 72,
+      "row_number": 73,
+      "data": ["05/04/2026", "SEEK", "Civil Site Engineer", "MCS Civil", "Rutherford, Newcastle, Maitland & Hunter NSW", "NSW", "", "", "https://www.seek.com.au/job/91271421", "New", "", "", ""]
+    },
+    {
+      "row_index": 77,
+      "row_number": 78,
+      "data": ["05/04/2026", "SEEK", "Graduate/Site Engineer", "Ironbuilt Infrastructure Pty Ltd", "Moruya, Wollongong, Illawarra & South Coast NSW", "NSW", "", "", "https://www.seek.com.au/job/91225069", "New", "", "", ""]
+    },
+    {
+      "row_index": 82,
+      "row_number": 83,
+      "data": ["05/04/2026", "SEEK", "Graduate Drafter", "Engineering Design Global Enterprises Pty Ltd", "Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91254629", "New", "", "", ""]
+    },
+    {
+      "row_index": 83,
+      "row_number": 84,
+      "data": ["05/04/2026", "SEEK", "Civil Engineer", "Development Engineering Consultants", "West Perth, Perth WA", "WA", "", "", "https://www.seek.com.au/job/91247554", "New", "", "", ""]
+    },
+    {
+      "row_index": 84,
+      "row_number": 85,
+      "data": ["05/04/2026", "SEEK", "Site Engineer", "Seymour Whyte Constructions", "Moorebank, Sydney NSW", "NSW", "", "", "https://www.seek.com.au/job/91216886", "New", "", "", ""]
+    },
+    {
+      "row_index": 91,
+      "row_number": 92,
+      "data": ["05/04/2026", "SEEK", "Site Supervisor", "Hickory HR Pty Ltd", "Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91248080", "New", "", "", ""]
+    },
+    {
+      "row_index": 93,
+      "row_number": 94,
+      "data": ["05/04/2026", "SEEK", "Site Supervisor (Delivery) - Water Infrastructure", "Jaydo Construction Pty Ltd", "Keilor Park, Melbourne VIC", "VIC", "", "", "https://www.seek.com.au/job/91268204", "New", "", "", ""]
+    },
+    {
+      "row_index": 94,
+      "row_number": 95,
+      "data": ["05/04/2026", "SEEK", "Graduate Engineer Mildura - Civil Construction", "Ke
