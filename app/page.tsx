@@ -29,22 +29,22 @@ export default function Home() {
       {/* CTA Section */}
       <section className="py-16 px-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-3xl font-bold mb-6">Ready to Build Your Website?</h2>
+          <h2 className="text-3xl font-bold mb-6">Ready to Transform Your Digital Infrastructure?</h2>
           <p className="text-xl mb-8 opacity-90">
-            Let's turn your vision into a stunning, functional website that drives results.
+            From websites to industry-specific software - we build complete digital solutions that drive results.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 
               href="/contact" 
               className="px-8 py-3 bg-white text-blue-600 font-semibold rounded-lg hover:bg-gray-100 transition-colors"
             >
-              Get a Free Quote
+              Get a Free Consultation
             </a>
             <a 
-              href="/portfolio" 
+              href="/services" 
               className="px-8 py-3 border-2 border-white text-white font-semibold rounded-lg hover:bg-white hover:text-blue-600 transition-colors"
             >
-              View All Projects
+              Explore Our Services
             </a>
           </div>
         </div>

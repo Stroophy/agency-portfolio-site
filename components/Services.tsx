@@ -1,17 +1,24 @@
-import { FaServer, FaCode, FaCloud, FaDatabase, FaMobileAlt, FaShieldAlt } from 'react-icons/fa';
+import { FaServer, FaCode, FaCloud, FaDatabase, FaMobileAlt, FaShieldAlt, FaHardHat } from 'react-icons/fa';
 
 const services = [
   {
+    title: 'Construction Tech Solutions',
+    description: 'Industry-specific software for construction management, workforce tracking, procurement, and compliance.',
+    icon: <FaHardHat className="text-3xl text-blue-500" />,
+    price: '$15,000 - $50,000+',
+    features: ['Flutter Mobile Apps', 'Supabase Backend', 'GPS Geofencing', 'BOM Weather Sync', 'Australian Compliance']
+  },
+  {
     title: 'Web Development',
     description: 'Custom websites and web applications built with modern frameworks and best practices.',
-    icon: <FaCode className="text-3xl text-blue-500" />,
+    icon: <FaServer className="text-3xl text-purple-500" />,
     price: '$2,000 - $10,000+',
     features: ['Next.js/React', 'TypeScript', 'Tailwind CSS', 'Responsive Design', 'SEO Optimization']
   },
   {
     title: 'Digital Infrastructure',
     description: 'Complete backend systems, APIs, databases, and cloud architecture for scalable business applications.',
-    icon: <FaServer className="text-3xl text-purple-500" />,
+    icon: <FaCloud className="text-3xl text-green-500" />,
     price: '$5,000 - $25,000+',
     features: ['Cloud Migration', 'API Development', 'Database Design', 'System Architecture', 'Scalability Planning']
   },
