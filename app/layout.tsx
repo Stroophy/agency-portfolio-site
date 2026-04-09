@@ -7,17 +7,17 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "PI-HUB Web Services - Melbourne Web Development Agency",
-  description: "Melbourne-based web development agency specializing in custom websites, e-commerce stores, and portfolio sites for local businesses.",
-  keywords: ["web development", "Melbourne", "website design", "e-commerce", "portfolio", "Next.js", "Supabase"],
-  authors: [{ name: "PI-HUB Web Services" }],
+  title: "Stroophy Digital Services (SDS) - Melbourne Digital Agency",
+  description: "Melbourne-based digital agency specializing in web development, digital infrastructure solutions, and custom software for local businesses.",
+  keywords: ["digital agency", "Melbourne", "web development", "digital infrastructure", "cloud solutions", "Next.js", "Supabase", "API development"],
+  authors: [{ name: "Stroophy Digital Services" }],
   openGraph: {
     type: "website",
     locale: "en_AU",
-    url: "https://pihubwebservices.com",
-    title: "PI-HUB Web Services",
-    description: "Melbourne-based web development agency",
-    siteName: "PI-HUB Web Services",
+    url: "https://stroophydigital.com",
+    title: "Stroophy Digital Services",
+    description: "Melbourne-based digital agency crafting beautiful, functional solutions for local businesses",
+    siteName: "Stroophy Digital Services",
   },
 };
 

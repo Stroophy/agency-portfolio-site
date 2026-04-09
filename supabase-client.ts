@@ -1,4 +1,4 @@
-// Supabase client configuration for PI-HUB Web Services
+// Supabase client configuration for Stroophy Digital Services (SDS)
 // Generated: 2026-04-09 08:50 UTC (6:50 PM Melbourne)
 
 import { createClient } from '@supabase/supabase-js';

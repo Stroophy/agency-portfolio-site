@@ -1,4 +1,4 @@
-// TypeScript interfaces for PI-HUB Web Services Portfolio
+// TypeScript interfaces for Stroophy Digital Services (SDS) Portfolio
 // Generated: 2026-04-09 08:50 UTC (6:50 PM Melbourne)
 
 export type ProjectCategory = 
